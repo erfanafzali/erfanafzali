@@ -6,7 +6,6 @@ I'm erfan from Iran, and I do content on development. I really enjoy learning ja
 
 ### Hi there 👋, Erfan Afzali
 #### Front-end Developer
-![Front-end Developer](https://erfanafzali.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm erfan from Iran, and I do content on development. I really enjoy learning javascript language.
 
