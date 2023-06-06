@@ -5,7 +5,7 @@
 
 I'm erfan from Iran, and I do content on development. I really enjoy learning javascript language.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfanafzali&show_icons=true&theme=merko)
+
 
 
 ## Skills ans Experience
@@ -20,6 +20,8 @@ I'm erfan from Iran, and I do content on development. I really enjoy learning ja
 Skills: HTML / CSS / JS / Tailwind
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanafzali)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfanafzali&show_icons=true&theme=merko)
 
   
 
