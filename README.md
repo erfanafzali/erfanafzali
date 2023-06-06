@@ -10,17 +10,19 @@ I'm erfan from Iran, and I do content on development. I really enjoy learning ja
 
 ## Skills ans Experience
 
-Skills: JS / HTML / CSS
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanafzali)](https://github.com/anuraghazra/github-readme-stats)
-
-  
 <h3 align="left">Languages and Tools:</h3>
 
 
  
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://skillicons.dev)
+
+Skills: JS / HTML / CSS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanafzali)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+
 
 
  
