@@ -20,13 +20,10 @@ Skills: JS / HTML / CSS
 
 ## contact with me
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://skillicons.dev)
 
 
-
-<h3 align="center">A passionate frontend developer from Iran</h3>
- <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-
+ 
 <h3 align="left">Languages and Tools:</h3>
  
 
