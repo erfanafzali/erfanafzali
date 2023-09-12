@@ -15,7 +15,7 @@ I'm erfan from Iran, and I do content on development. I really enjoy learning ja
 
  
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,git)](https://skillicons.dev)
 
 Skills: HTML / CSS / JS / Tailwind
 
