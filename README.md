@@ -17,7 +17,6 @@ I'm erfan from Iran, and I do content on development. I really enjoy learning ja
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github)](https://skillicons.dev)
 
-Skills: HTML / CSS / JS / Tailwind
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanafzali)](https://github.com/anuraghazra/github-readme-stats)
 
