@@ -1,9 +1,9 @@
  
 
-# Hi there 👋, Erfan Afzali
+# Hi there 👋, 
 #### Front-end Developer
 
-I'm erfan from Iran, and I do content on development. I really enjoy learning javascript language.
+Hello, I'm Erfan Afzali. I'm a passionate programmer, and I'm constantly focused on advancing in this field. My current area of work is Front End, and I have been working in this field for almost 1.5 years.
 
 
 
