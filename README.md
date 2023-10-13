@@ -3,8 +3,9 @@
 # Hi there 👋, 
 #### Front-end Developer
 
-Hello, I'm Erfan Afzali. I'm a passionate programmer, and I'm constantly focused on advancing in this field. My current area of work is Front End, and I have been working in this field for almost 1.5 years.
+"Hello, I'm Erfan Afzali, a passionate programmer with a strong commitment to continuous growth in my field. Currently, I specialize in Front End development, with nearly 1.5 years of hands-on experience. My expertise extends to React and Tailwind CSS.
 
+Looking forward, my next ambitious goals involve mastering Next.js and TypeScript. These technologies align with my commitment to staying at the forefront of web development, enabling me to create even more robust and efficient web applications."
 
 
 
