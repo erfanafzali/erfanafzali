@@ -1,5 +1,3 @@
- 
-
 # Hi there 👋, 
 #### Front-end Developer
 
