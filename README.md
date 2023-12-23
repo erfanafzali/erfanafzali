@@ -14,7 +14,7 @@ Looking forward, my next ambitious goals involve mastering Next.js and TypeScrip
 
  
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,redux,react-query)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,redux,postman)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanafzali)](https://github.com/anuraghazra/github-readme-stats)
