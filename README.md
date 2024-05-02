@@ -16,7 +16,7 @@ Let's continue this exhilarating journey of innovation and code the future toget
 
  
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,ts,git,github,redux,postman,vite,vscode,figma,regex)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,ts,git,github,redux,postman,vite,)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanafzali)](https://github.com/anuraghazra/github-readme-stats)
